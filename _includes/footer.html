@@ -8,7 +8,11 @@
         <section>
             <h2>Siga-nos</h2>
             <ul class="icons">
-                    
+                { for item in site.data.social %}
+                    <li>
+                        <a href="{{ item.link }}" title="{{ item.title }}"><i class="fa fa-{{ item.icon }}"></i></a>
+                    </li>
+                {% endfor %}
             </ul>
         </section>
         <ul class="copyright">
