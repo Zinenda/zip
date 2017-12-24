@@ -1,0 +1,29 @@
+{
+  "name": "ZIP",
+  "authors": [
+    "Ivo Zinenda <izinenda@gmail.com>"
+  ],
+  "description": "Loja de acessorios de moda",
+  "main": "",
+  "keywords": [
+    "colares",
+    "mascotes",
+    "cascois",
+    "cintos",
+    "sacolas",
+    "mochilas"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1"
+  }
+}

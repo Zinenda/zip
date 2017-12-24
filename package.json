@@ -1,0 +1,8 @@
+{
+  "name": "ZIP",
+  "version": "1.0.0",
+  "description": "loja de acessorios de moda",
+  "main": "index.js",
+  "author": "Ivo Zinenda <izinenda@gmail.com>",
+  "license": "MIT"
+}

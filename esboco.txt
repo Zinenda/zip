@@ -1,0 +1,13 @@
+Loja online para venda de acessorios de moda
+Categorias:
+    - Carteiras
+    - Quarda cartões
+    - Cintos
+    - Bolsas
+    - Mochilas
+    - Capinhas para Celulares
+    - Braceletes, pulseiras, mascotes ou pulsos
+    - Luvas
+    - bonés e chapéus
+    - Abotoadores
+    - Gravatas e Laços
