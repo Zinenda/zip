@@ -21,6 +21,10 @@ exclude:
   - node_modules
   - vendor
   - bower_components
+  - admin/index.js
+  - webpack.config.js
+  - package.json
+  - README.md
 
 sass:
   sass_dir: assets/_sass
