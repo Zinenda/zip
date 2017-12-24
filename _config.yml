@@ -23,7 +23,6 @@ exclude:
   - bower_components
   - admin/index.js
   - webpack.config.js
-  - package.json
   - README.md
 
 sass:
