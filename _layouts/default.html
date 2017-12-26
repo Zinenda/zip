@@ -2,13 +2,15 @@
 <html lang="pt">
     {% include head.html %}
     <body>
-        <div class="wrapper">
+        <div id="wrapper">
             {% include header.html %}
             {% include menu.html %}
 
-            <main class="main">
-                {{ content }}
-            </main>
+            <div id="main">
+                <div class="inner">
+                    {{ content }}
+                </div>
+            </div>
             {% include footer.html %}
         </div>
         {% include scripts.html %}

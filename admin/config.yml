@@ -13,7 +13,7 @@ collections:
     folder: "_braceletes"
     create: true
     fields:
-      - {label: "Nome do Produto", name: "name", widget: "string"}
+      - {label: "Nome do Produto", name: "title", widget: "string"}
       - {label: "Categoria", name: "category", widget: "hidden", default: "produto"}
       - {label: "Preço", name: "price", widget: "number"}
       - {label: "Imagem", name: "image", widget: "image"}
