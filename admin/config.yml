@@ -14,7 +14,9 @@ collections:
     create: true
     fields:
       - {label: "Nome do Produto", name: "title", widget: "string"}
-      - {label: "Categoria", name: "category", widget: "hidden", default: "produto"}
       - {label: "Preço", name: "price", widget: "number"}
+      - {label: "Quantidade", name: "quantity", widget: "number"}
+      - {label: "Quant. Min.", name: "quant_min", widget: "number"}
+      - {label: "Quant. Max.", name: "quant_max", widget: "number"}
       - {label: "Imagem", name: "image", widget: "image"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
