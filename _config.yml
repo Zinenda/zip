@@ -31,7 +31,7 @@ sass:
   style: compressed
 
 collections:
-  braceletes:
+  bolsas:
 
 image:
 logo: /assets/img/logo.svg
