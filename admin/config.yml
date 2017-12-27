@@ -8,14 +8,11 @@ backend:
 media_folder: "assets/img/uploads"
 
 collections:
-  - name: "braceletes"
-    label: "Braceletes"
-    folder: "_braceletes"
+  - name: "bolsas"
+    label: "bolsas"
+    folder: "_bolsas"
     create: true
     fields:
       - {label: "Nome do Produto", name: "title", widget: "string"}
       - {label: "Preço", name: "price", widget: "number"}
-      - {label: "Quantidade", name: "quantity", widget: "number"}
-      - {label: "Quant. Min.", name: "quant_min", widget: "number"}
       - {label: "Imagem", name: "image", widget: "image"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
