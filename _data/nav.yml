@@ -2,33 +2,20 @@
   title: Abotoadores
   icon:
 
+- link: /braceletes
+  title: Braceletes
+  icon:
+
+- link: /bolsas
+  title: Bolsas
+  icon: 
+
 - link: /carteiras
   title: Carteiras
   icon: wallet
 
 - link: /cintos
   title: Cintos
-  icon: 
-
-- link: /bolsas
-  title: Bolsas
-  icon: 
-
-- link: /mochilas
-  title: Mochilas
-  icon: 
-
-
-- link: /mochilas
-  title: Mochilas
-  icon:
-
-- link: /cases
-  title: Capinhas
-  icon:
-
-- link: /luvas
-  title: Luvas
   icon:
 
 - link: /cases
@@ -41,4 +28,12 @@
 
 - link: /gravatas
   title: Gravatas
+  icon:
+
+- link: /luvas
+  title: Luvas
+  icon:
+
+- link: /mochilas
+  title: Mochilas
   icon:
